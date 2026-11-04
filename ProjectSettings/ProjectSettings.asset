@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: 7651c86f8df479d4387e548822b24a43
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -896,7 +896,7 @@ PlayerSettings:
   cloudProjectId: f7519a99-d2db-4d0a-98b6-8c923d991f8c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: jogo-do-esgoto 2026-11-01_23-34-34
   organizationId: eduardoclistenys
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
