@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: c8789156097cc0b4c8ecb8b4b5c1bd07
+guid: 8e7f29804a87b2548b9085253b1d84a5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2414761072529798059
-    second: joao-attack-pixel-engine-v2-6frames-32x32_0
+      213: -7638831559428136943
+    second: joao-idle_0
   - first:
-      213: -8970937326204120550
-    second: joao-attack-pixel-engine-v2-6frames-32x32_1
+      213: 3970923586688421217
+    second: joao-idle_1
   - first:
-      213: 2521564435064415806
-    second: joao-attack-pixel-engine-v2-6frames-32x32_2
+      213: -2881437369496111806
+    second: joao-idle_2
   - first:
-      213: -3170444320513283617
-    second: joao-attack-pixel-engine-v2-6frames-32x32_3
+      213: 8174846234944901607
+    second: joao-idle_3
   - first:
-      213: -6360149326377688724
-    second: joao-attack-pixel-engine-v2-6frames-32x32_4
+      213: -8131147561965261936
+    second: joao-idle_4
   - first:
-      213: -1786319318494203149
-    second: joao-attack-pixel-engine-v2-6frames-32x32_5
+      213: 5760955964187186268
+    second: joao-idle_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,7 +128,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: joao-attack-pixel-engine-v2-6frames-32x32_0
+      name: joao-idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -143,14 +143,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba37499c664f28120800000000000000
-      internalID: 2414761072529798059
+      spriteID: 1102e314b2b6df590800000000000000
+      internalID: -7638831559428136943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: joao-attack-pixel-engine-v2-6frames-32x32_1
+      name: joao-idle_1
       rect:
         serializedVersion: 2
         x: 32
@@ -165,14 +165,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a129f492804d08380800000000000000
-      internalID: -8970937326204120550
+      spriteID: 16d88c696fd8b1730800000000000000
+      internalID: 3970923586688421217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: joao-attack-pixel-engine-v2-6frames-32x32_2
+      name: joao-idle_2
       rect:
         serializedVersion: 2
         x: 64
@@ -187,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e36e54e6e756ef220800000000000000
-      internalID: 2521564435064415806
+      spriteID: 245f5ac9af31308d0800000000000000
+      internalID: -2881437369496111806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: joao-attack-pixel-engine-v2-6frames-32x32_3
+      name: joao-idle_3
       rect:
         serializedVersion: 2
         x: 96
@@ -209,14 +209,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd9a6af20b15004d0800000000000000
-      internalID: -3170444320513283617
+      spriteID: 7e19457a653e27170800000000000000
+      internalID: 8174846234944901607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: joao-attack-pixel-engine-v2-6frames-32x32_4
+      name: joao-idle_4
       rect:
         serializedVersion: 2
         x: 128
@@ -231,14 +231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6161da92e53cb7a0800000000000000
-      internalID: -6360149326377688724
+      spriteID: 09be6c08f5c582f80800000000000000
+      internalID: -8131147561965261936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: joao-attack-pixel-engine-v2-6frames-32x32_5
+      name: joao-idle_5
       rect:
         serializedVersion: 2
         x: 160
@@ -253,8 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f23cbd4b08b537e0800000000000000
-      internalID: -1786319318494203149
+      spriteID: c549b043de603ff40800000000000000
+      internalID: 5760955964187186268
       vertices: []
       indices: 
       edges: []
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b8b6acab2d1c32746b04226a5c8e5e1a
+    spriteID: 2e54636b7a9397146a0d76509499a4b6
     internalID: 0
     vertices: []
     indices: 
@@ -275,12 +275,12 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      joao-attack-pixel-engine-v2-6frames-32x32_0: 2414761072529798059
-      joao-attack-pixel-engine-v2-6frames-32x32_1: -8970937326204120550
-      joao-attack-pixel-engine-v2-6frames-32x32_2: 2521564435064415806
-      joao-attack-pixel-engine-v2-6frames-32x32_3: -3170444320513283617
-      joao-attack-pixel-engine-v2-6frames-32x32_4: -6360149326377688724
-      joao-attack-pixel-engine-v2-6frames-32x32_5: -1786319318494203149
+      joao-idle_0: -7638831559428136943
+      joao-idle_1: 3970923586688421217
+      joao-idle_2: -2881437369496111806
+      joao-idle_3: 8174846234944901607
+      joao-idle_4: -8131147561965261936
+      joao-idle_5: 5760955964187186268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
