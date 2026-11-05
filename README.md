@@ -61,13 +61,27 @@ Os GIFs abaixo são prévias da arte, não gravações de gameplay. Eles estão 
 
 O `PlayerAnimationController` contém esses cinco estados, mas ainda não possui parâmetros nem transições. A integração entre comandos, regras e animações está pendente. A diferença entre o nome da arte `dash` e o clip `PlayerMove` deve ser resolvida conceitualmente antes de definir a habilidade.
 
+## Rato: inimigo em desenvolvimento
+
+O rato é um inimigo planejado para o jogo. Os GIFs mostram as animações produzidas; seu comportamento, atributos e papel nas fases ainda precisam ser definidos e validados no gameplay.
+
+| Repouso — Idle | Caminhada — Walk | Ataque — Attack |
+| :---: | :---: | :---: |
+| ![Rato em repouso](Assets/Documentation/rato-idle.gif) | ![Rato caminhando](Assets/Documentation/rato-walk.gif) | ![Rato atacando](Assets/Documentation/rato-attack.gif) |
+
+| Dano — Hurt | Morte — Death |
+| :---: | :---: |
+| ![Rato recebendo dano](Assets/Documentation/rato-hurt.gif) | ![Animação de morte do rato](Assets/Documentation/rato-death.gif) |
+
+Como no caso de João, essas prévias documentam a arte e não comprovam que as ações ou transições já funcionam durante o jogo.
+
 ## Mundo, fases e apresentação
 
 | Área | Estado do design |
 | --- | --- |
 | Narrativa | História, motivação do protagonista e tom a definir |
 | Cenários | Layouts, obstáculos, interação e identidade visual a definir |
-| Inimigos | Tipos, comportamentos e relação com o combate a definir |
+| Inimigos | Rato definido como inimigo; comportamento, atributos e relação com o combate a definir |
 | Itens | Funções, disponibilidade e efeitos a definir |
 | Interface | Informações essenciais, menus e feedback a definir |
 | Áudio | Trilha, efeitos e identidade sonora a definir |
@@ -78,6 +92,7 @@ O repositório inclui recursos de tutorial. A seleção de quais serão usados, 
 
 - [x] Sprites de repouso, ataque, dash, dano e morte importados.
 - [x] GIFs de apresentação disponíveis na documentação.
+- [x] GIFs de repouso, caminhada, ataque, dano e morte do rato disponíveis na documentação.
 - [x] Cinco clips e um Animator Controller criados.
 - [x] Objeto `Player` com SpriteRenderer e Animator adicionado à cena `TutorialMain`.
 - [ ] Definir o ciclo principal, o objetivo e as condições de vitória e derrota.
