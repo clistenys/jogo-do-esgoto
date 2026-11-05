@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef1823c1d15b8264dbb8cfc3b65504cd, type: 3}
   m_Name: UrbanTheme
   m_EditorClassIdentifier: 
-  PlayerPrefab: {fileID: 7781805325109420056, guid: 5812b93e5855a7c4fa1ea8f010eba4c5, type: 3}
+  PlayerPrefab: {fileID: 7781805325109420056, guid: 6901c64e9a5e13a4d951eed6005a602d, type: 3}
   GroundTiles:
   - {fileID: 11400000, guid: 505b2c928cb5d4de6a9d09e0d61154cd, type: 2}
   - {fileID: 11400000, guid: 95d6f8a100dd4490a80d35a645211d75, type: 2}
